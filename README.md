@@ -4,12 +4,12 @@ Our paper â€œ_**[Open-Vocabulary Object Detection: A Comprehensive Survey]()**_â
 
 <p align='center'>
     </br>
-    <img src='timeline.png' width='1000'>
+    <img src='2D_timeline.jpg' width='1000'>
 </p>
 
 <p align='center'>
     </br>
-    <img src='methods.png' width='1000'>
+    <img src='3D_timeline.jpg' width='1000'>
 </p>
 
 ## Papers
