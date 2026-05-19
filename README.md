@@ -34,7 +34,7 @@ Our paper â€œ_**[Open-Vocabulary Object Detection: A Comprehensive Survey]()**_â
 #### ICPR 2026 (Accepted Papers)
 
 * [Submitted 5 May, 2026] The Detector Teaches Itself: Lightweight Self-Supervised Adaptation for Open-Vocabulary Object Detection [[paper](https://arxiv.org/pdf/2605.03642)][[code](https://github.com/QM-IPAlab/DAT)]
-#### arXiv 2026
+#### ArXiv
 
 * [Submitted 21 January, 2026] A Training-Free Guess What Vision Language Model from Snippets to Open-Vocabulary Object Detection [[paper](https://arxiv.org/pdf/2601.11910)]
 * [Submitted 31 January, 2026] Enhancing Open-Vocabulary Object Detection through Multi-Level Fine-Grained Visual-Language Alignment [[paper](https://arxiv.org/pdf/2602.00531)]
@@ -60,7 +60,8 @@ Our paper â€œ_**[Open-Vocabulary Object Detection: A Comprehensive Survey]()**_â
 * [Submitted 9 July, 2025] Bilateral Collaboration with Large Vision-Language Models for Open Vocabulary Human-Object Interaction Detection [[paper](https://arxiv.org/pdf/2507.06510)][[code](https://github.com/MPI-Lab/BC-HOI)]
 * [Submitted 5 August, 2025] Open-Vocabulary HOI Detection with Interaction-aware Prompt and Concept Calibration [[paper](https://arxiv.org/pdf/2508.03207)][[code](https://github.com/ltttpku/INP-CC)]
 * [Submitted 9 December, 2024] DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction [[paper](https://arxiv.org/pdf/2412.06244#)]
-
+* [Submitted 9 March, 2025] OV-SCAN: Semantically Consistent Alignment for Novel Object Discovery in Open-Vocabulary 3D Object Detection [[paper](https://arxiv.org/pdf/2503.06435)]
+* [Submitted 8 March, 2025] OpenRSD: Towards Open-prompts for Object Detection in Remote Sensing Images [[paper](https://arxiv.org/pdf/2503.06146)]
 #### AAAI 2025
 
 * [Submitted 10 March, 2025] Hierarchical Cross-Modal Alignment for Open-Vocabulary 3D Object Detection [[paper](https://arxiv.org/pdf/2503.07593)][[code](https://github.com/YoujunZhao/HCMA)]
@@ -98,14 +99,9 @@ Our paper â€œ_**[Open-Vocabulary Object Detection: A Comprehensive Survey]()**_â
 
 * [Submitted 27 July, 2025] VESPA: Towards un(Human)supervised Open-World Pointcloud Labeling for Autonomous Driving [[paper](https://arxiv.org/pdf/2507.20397)]
 * [Submitted 6 July, 2025] Just Add Geometry: Gradient-Free Open-Vocabulary 3D Detection Without Human-in-the-Loop [[paper](https://arxiv.org/pdf/2507.13363)][[code](https://github.com/atharv0goel/open-world-3D-det)]
-* [Submitted 6 July, 2025] Just Add Geometry: Gradient-Free Open-Vocabulary 3D Detection Without Human-in-the-Loop [[paper](https://arxiv.org/pdf/2507.13363)][[code](https://github.com/atharv0goel/open-world-3D-det)]
-* [Submitted 9 March, 2025] OV-SCAN: Semantically Consistent Alignment for Novel Object Discovery in Open-Vocabulary 3D Object Detection [[paper](https://arxiv.org/pdf/2503.06435)]
 * [Submitted 18 June, 2025] BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion [[paper](https://arxiv.org/pdf/2506.15610)][[code](https://github.com/lanlan96/BoxFusion/tree/main)]
 * [Submitted 14 July, 2025] LLM-Guided Agentic Object Detection for Open-World Understanding [[paper](https://arxiv.org/abs/2507.10844)][[code]([https://github.com/furkanmumcu/LAOD]
 * [Submitted 9 July, 2025] LOVON: Legged Open-Vocabulary Object Navigator [[paper](https://arxiv.org/pdf/2507.06747)][[code]([https://github.com/DaojiePENG/LOVON]
-* [Submitted 8 March, 2025] OpenRSD: Towards Open-prompts for Object Detection in Remote Sensing Images [[paper](https://arxiv.org/pdf/2503.06146)]
-#### arXiv 2025
-
 * [Submitted 1 October, 2025] Adaptive Event Stream Slicing for Open-Vocabulary Event-Based Object Detection via Vision-Language Knowledge Distillation [[paper](https://arxiv.org/pdf/2510.00681)]
 * [Submitted 4 October, 2025] Cross-View Open-Vocabulary Object Detection in Aerial Imagery [[paper](https://arxiv.org/pdf/2510.03858)]
 * [Submitted 16 October, 2025] CoT-PL: Chain-of-Thought Pseudo-Labeling for Open-Vocabulary Object Detection [[paper](https://arxiv.org/pdf/2510.14792)][[code](https://github.com/hchoi256/cotpl)]
@@ -114,8 +110,6 @@ Our paper â€œ_**[Open-Vocabulary Object Detection: A Comprehensive Survey]()**_â
 * [Submitted 26 November, 2025] OVOD-Agent: A Markov-Bandit Framework for Proactive Visual Reasoning and Self-Evolving Detection [[paper](https://arxiv.org/pdf/2511.21064)]
 * [Submitted 13 December, 2025] WeDetect: Fast Open-Vocabulary Object Detection as Retrieval [[paper](https://arxiv.org/pdf/2512.12309)][[code](https://github.com/WeChatCV/WeDetect)]
 * [Submitted 18 December, 2025] Auto-Vocabulary 3D Object Detection [[paper](https://arxiv.org/pdf/2512.16077)]
-
-
 
 
 ### 2024
