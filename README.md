@@ -27,10 +27,6 @@ Our paper â€œ_**[Open-Vocabulary Object Detection: A Comprehensive Survey]()**_â
 #### CVPR 2026 (Accepted Papers)
 
 * [Submitted 22 March, 2026] NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection [[paper](https://arxiv.org/pdf/2603.21069)]
-
-
-#### CVPR 2026 Findings
-
 * [Submitted 25 April, 2026] Exploring Hierarchical Consistency and Unbiased Objectness for Open-Vocabulary Object Detection [[paper](https://arxiv.org/pdf/2604.23344)]
 * [Submitted 11 May, 2026] DetRefiner: Model-Agnostic Detection Refinement with Feature Fusion Transformer [[paper](https://arxiv.org/pdf/2605.10190)][[code](https://github.com/hitachi-rd-cv/detrefiner)]
 
