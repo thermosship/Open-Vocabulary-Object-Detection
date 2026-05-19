@@ -48,12 +48,12 @@ Our paper â€œ_**[Open-Vocabulary Object Detection: A Comprehensive Survey]()**_â
 
 ### 2025
 
-#### CVPR 2025 (Accepted Papers)
+#### CVPR 2025
 
 * [Submitted 15 August, 2025] Generalized Decoupled Learning for EnhancingOpen-Vocabulary Dense Perception [[paper](https://arxiv.org/pdf/2508.11256)][[code](https://github.com/xiaomoguhz/DeCLIP)]
 * [Submitted 31 January, 2025] LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models [[paper](https://arxiv.org/pdf/2501.18954)][[code](https://github.com/iSEE-Laboratory/LLMDet)]
 
-#### ICCV 2025 (Accepted Papers)
+#### ICCV 2025
 * [Submitted 19 September, 2025] Sparse Multiview Open-Vocabulary 3D Detection [[paper](https://arxiv.org/pdf/2509.15924)]
 * [Submitted 27 August, 2025] OpenM3D: Open Vocabulary Multi-view Indoor 3D Object Detection without Human Annotations [[paper](https://arxiv.org/pdf/2508.20063)]
 * [Submitted 23 July, 2025] Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection [[paper](https://arxiv.org/pdf/2507.17436)][[code](https://github.com/wengminghe/Dynamic-DINO)]
@@ -61,36 +61,36 @@ Our paper â€œ_**[Open-Vocabulary Object Detection: A Comprehensive Survey]()**_â
 * [Submitted 5 August, 2025] Open-Vocabulary HOI Detection with Interaction-aware Prompt and Concept Calibration [[paper](https://arxiv.org/pdf/2508.03207)][[code](https://github.com/ltttpku/INP-CC)]
 * [Submitted 9 December, 2024] DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction [[paper](https://arxiv.org/pdf/2412.06244#)]
 
-#### AAAI 2025 (Accepted Papers)
+#### AAAI 2025
 
 * [Submitted 10 March, 2025] Hierarchical Cross-Modal Alignment for Open-Vocabulary 3D Object Detection [[paper](https://arxiv.org/pdf/2503.07593)][[code](https://github.com/YoujunZhao/HCMA)]
 * [Submitted 17 August, 2024] Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community [[paper](https://arxiv.org/pdf/2408.09110)][[code](https://github.com/jaychempan/LAE-DINO)]
 
-#### ICLR 2025 (Accepted Papers)
+#### ICLR 2025
 
 * [Submitted 10 December, 2024] Test-time Correction with Human Feedback: An Online 3D Detection System via Visual Prompting [[paper](https://arxiv.org/pdf/2412.07768)]
 * [Submitted 27 February, 2025] 3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds [[paper](https://arxiv.org/pdf/2502.20041)]
 
-#### BMVC 2025 (Accepted Papers)
+#### BMVC 2025
 
 * [Submitted 22 August, 2025] Towards Open-Vocabulary Multimodal 3D Object Detection with Attributes [[paper](https://arxiv.org/pdf/2508.16812)]
 
-#### WACV 2025 (Accepted Papers)
+#### WACV 2025
 
 * [Submitted 19 November, 2023] Enhancing Novel Object Detection via Cooperative Foundational Models [[paper](https://arxiv.org/pdf/2311.12068)][[code](https://github.com/rohit901/cooperative-foundational-models)]
 
-#### ICRA 2025 (Accepted Papers)
+#### ICRA 2025
 
 * [Submitted 19 March, 2025] Fine-Grained Open-Vocabulary Object Detection with Fined-Grained Prompts: Task, Dataset and Benchmark [[paper](https://arxiv.org/pdf/2503.14862)][[code](https://github.com/tengerye/3FOVD)]
 
-#### TGRS 2025 (Accepted Papers)
+#### TGRS 2025
 
 * [Submitted 25 April, 2025] LLaMA-Unidetector: An LLaMA-Based Universal Framework for Open-Vocabulary Object Detection in Remote Sensing Imagery [[paper](https://ieeexplore.ieee.org/document/10976651)][[code](https://github.com/ChloeeGrace/LLaMA-Unidetector)]
 
-#### TMM 2025 (Accepted Papers)
+#### TMM 2025
 
 * [Submitted 13 March, 2025] A Hierarchical Semantic Distillation Framework for Open-Vocabulary Object Detection [[paper](https://arxiv.org/pdf/2503.10152)]
-#### NeurIPS 2025 (Accepted Papers)
+#### NeurIPS 2025
 
 * [Submitted 27 March, 2026] GUIDED: Granular Understanding via Identification, Detection, and Discrimination for Fine-Grained Open-Vocabulary Object Detection [[paper](https://arxiv.org/pdf/2603.27014)][[code](https://github.com/lijm48/GUIDED)]
 
